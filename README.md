@@ -5,6 +5,7 @@ Home Server for my parents.
 My home server is developed using HP Thin client t630.
 It supports 2 M2 SATA disks (NOT NVME!), one of them uses FreeNAS, the other serves as storage disk.
 This repo contains my roadpath to achieve multiple-task home server to support my parents in their everyday life.
+You should also have at least 8GB of RAM. T630 supports DDR4.
 Enjoy!
 
 # FreeNAS setup
