@@ -19,6 +19,7 @@ Remember to choose your FreeNAS version in the docs. Via web panel you can downl
 Some I use:
 - AdGuard
 - Nextcloud
+
 For easy installation you need to ensure your IPv4 configuration is proper. Check via ping in your shell if you can ping google.com. I recommend this setup:
 - static IP
 - for Nameserver 1/2 use Google DNS
