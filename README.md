@@ -17,8 +17,9 @@ For FreeNAS 11 users creating plugins or jailing might be challenging. Should an
 FreeNAS/TrueNAS supports lots of ready-to-use plugins. All of them are listed here: https://www.ixsystems.com/documentation/freenas/11.2/plugins.html
 Remember to choose your FreeNAS version in the docs. Via web panel you can download plugins and deploy them. Remember about jailing, otherwise further updates will erase your hard work.
 Some I use:
-- AdGuard
-- Nextcloud
+- AdGuard - although might not working properly with: Gmail, Youtube, some other emails/popular platforms
+- Nextcloud (as GUI for non-technical users)
+- Virtual Machine
 
 For easy installation you need to ensure your IPv4 configuration is proper. Check via ping in your shell if you can ping google.com. I recommend this setup:
 - static IP
